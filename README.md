@@ -82,9 +82,9 @@ Detects traffic signs from road scenes and outputs cropped sign regions.
 
 ## Demo Video
 
- [Click to watch demo](demo/final_video_pre.mp4)
+[Click to watch demo](https://drive.google.com/file/d/14geKL1m2Jl7-JIgwSM1vhtQqdvGfsN6i/view?usp=sharing)
 
-(Upload your mp4 file under `demo/` so this link works.)
+(This video is hosted on Google Drive due to file size limits.)
 
 ---
 
