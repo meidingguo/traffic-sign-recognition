@@ -92,18 +92,10 @@ Detects traffic signs from road scenes and outputs cropped sign regions.
 
 ```plaintext
 traffic-sign-recognition/
-├── data/                     # Dataset (traffic signs)
+├── data/                     # Dataset (not included due to file size)
 ├── images/                   # Images used in README
-│   ├── pipeline.png
-│   ├── aug_cropped.png
-│   ├── confusion_matrix.png
-│   ├── yolo_inference.png
-├── demo/
-│   └── final_video_pre.mp4   # Demo video
-├── src/
-│   ├── train_cnn.py          # Custom CNN training
-│   ├── train_alexnet.py      # AlexNet fine-tuning
-│   ├── yolo_detect.py        # YOLOv8 detection
-│   └── pipeline_inference.py # End-to-end pipeline
+├── demo/                     # Demo video folder (external link in README)
+├── src/ (private)            # Source code not included in public release
 └── README.md
+
 ```
