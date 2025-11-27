@@ -32,10 +32,6 @@ The pipeline includes:
 
 ## Dataset & Augmentation
 
-<p align="center">
-  <img src="images/aug_cropped.png" width="200"/>
-</p>
-
 - 22 traffic sign categories  
 - Augmentation includes crop, rotation, blur, noise  
 - Train/Val/Test split: 60% / 20% / 20%
